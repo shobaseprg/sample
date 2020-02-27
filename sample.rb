@@ -1,4 +1,4 @@
 def hello
-  puts "hello"
+  puts "goodnight"
 
 hello
